@@ -37,7 +37,7 @@ Im a burnt out programmer focused on the frontier of generative modeling and dec
 ---
 
 ### 📖 Research Highlights
-* **Gaussian Process Regression (GPR):** Published work on using GPR for project slippage forecasting, providing probabilistic intervals for better project governance.
+* [**Gaussian Process Regression (GPR):**](https://www.researchgate.net/publication/349682387_NDMU_Forecasting_Contractors'_Slippage_for_Infrastructure_Projects_in_South_Cotabato_Using_Gaussian_Process_Regression) Published work on using GPR for project slippage forecasting, providing probabilistic intervals for better project governance.
 * **Diffusion Scalability:** Researching the transition from convolutional denoising to attention-based denoising in latent spaces.
 * **Tabular & Multimodal RAG:** Developing methods to improve LLM reasoning over sparse, large-scale financial tables using semantic chunking.
 * **LLM Scalability & Efficiency:** Investigating quantization-aware training, KV-cache optimization, and distillation techniques to maintain high-reasoning performance in Small Language Models (SLMs) for edge deployment.
