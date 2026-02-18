@@ -2,7 +2,7 @@
 
 ### 🧠 "AI Researcher" | Machine Learning Engineer | Generative AI Specialist
 
-I am a Master’s in Information Technology graduate focused on the frontier of generative modeling and decision science. My current work centers on optimizing **SLM/LLM scalability** and advancing **Diffusion Transformers (DiT) Post-Training** pipelines, alongside a deep foundation in Bayesian methodologies like **Gaussian Process Regression**.
+Im a burnt out programmer focused on the frontier of generative modeling and decision science. My current work centers on optimizing **SLM/LLM scalability** and advancing **Diffusion Transformers (DiT) Post-Training** pipelines, alongside a deep foundation in Bayesian methodologies like **Gaussian Process Regression**.
 
 ---
 
