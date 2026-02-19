@@ -1,8 +1,10 @@
 # Whats poppin? 👋
 
 ### 🧠 "AI Researcher" | Machine Learning Engineer | Generative AI Specialist
+_(quotes intentional, impostor syndrome included at no extra cost)_
 
-Im a burnt out programmer focused on the frontier of generative modeling and decision science. My current work centers on optimizing **SLM/LLM scalability** and advancing **Diffusion Transformers (DiT) Post-Training** pipelines, alongside a deep foundation in Bayesian methodologies like **Gaussian Process Regression**.
+I’m a **burnt-out programmer** living at the edge of generative modeling and decision science, where GPUs scream, losses explode, and convergence is a suggestion.
+These days I’m obsessed with making **SLMs/LLMs** scale without crying, pushing **Diffusion Transformers (DiT)** past their U-Net era, and applying **Bayesian** methods so my models can say _“I’m not sure”_ with confidence.
 
 ---
 
@@ -50,4 +52,4 @@ Im a burnt out programmer focused on the frontier of generative modeling and dec
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuburt&layout=compact&theme=transparent)
 
 
-*"Advancing AI through the lens of Bayesian uncertainty and Transformer scalability."*
+*"Advancing AI through Bayesian uncertainty, Transformer scalability, and an unhealthy relationship with PyTorch."*
