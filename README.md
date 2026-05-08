@@ -30,10 +30,10 @@ These days I’m obsessed with making **SLMs/LLMs** scale without crying, pushin
 | Project | Description |
 | :--- | :--- |
 | [**gpr-slippage-forecasting**](https://github.com/cuburt/SCDex) | A Bayesian framework using Gaussian Process Regression to predict and quantify uncertainty in infrastructure project slippage. |
-| [**project-crimex**](https://www.google.com/search?q=https://github.com/cuburt/project-crimex) | A comprehensive analytical platform for crime data visualization and predictive modeling using hybrid ML approaches. |
+| [**project-crimex**](https://github.com/cuburt/project-crimex) | A comprehensive analytical platform for crime data visualization and predictive modeling using hybrid ML approaches. |
 | [**varima-nn**](https://github.com/cuburt/varima-nn) | Hybrid forecasting system combining Vector ARIMA with Neural Networks for multivariate data. |
 | [**llm-wrappers**](https://github.com/cuburt/llm-wrappers) | A versatile chatbot framework supporting local inference and code interpretation. |
-| [**llm-local-setup**](https://www.google.com/search?q=https://github.com/cuburt/llm-local-setup) | Optimized configurations and scripts for running high-performance local LLM inference and SLM training using CUDA/MPS. |
+| [**llm-local-setup**](https://github.com/cuburt/llm-local-setup) | Optimized configurations and scripts for running high-performance local LLM inference and SLM training using CUDA/MPS. |
 | [**cuburt/ai-toolkit**](https://github.com/cuburt/ai-toolkit) | Implementation of DPO and GRPO training loops for aligning Diffusion Transformer (DiT) to specific preferences. |
 
 ---
