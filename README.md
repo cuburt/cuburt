@@ -1,55 +1,54 @@
-# Whats poppin? 👋
+# What's poppin? 👋
 
-### 🧠 "AI Researcher" | Machine Learning Engineer | Generative AI Specialist
-_(quotes intentional, impostor syndrome included at no extra cost)_
+I'm a **Machine Learning Engineer**, occasional researcher (self-proclaimed), and a programmer who's probably spent more time debugging than actually coding.
 
-I’m a **burnt-out programmer** living at the edge of generative modeling and decision science, where GPUs scream, losses explode, and convergence is a suggestion.
-These days I’m obsessed with making **SLMs/LLMs** scale without crying, pushing **Diffusion Transformers (DiT)** past their U-Net era, and applying **Bayesian** methods so my models can say _“I’m not sure”_ with confidence.
+I build stuff with **LLMs, generative models, and ML systems**. Sometimes for work, sometimes for research, and sometimes just because I found an interesting paper at 2 AM.
 
----
+### 🧠 Current rabbit holes
 
-### 🚀 Technical Focus
-* **LLMs & SLMs:** Designing robust pipelines for Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) to align models with complex reasoning tasks.
-* **Bayesian Forecasting:** Leveraging Gaussian Process Regression (GPR) for uncertainty-aware predictions in high-stakes environments like infrastructure management.
-* **Time-Series Hybridization:** Combining classical VARIMA models with Deep Learning (MLP) for multi-variable forecasting.
-* **Diffusion Transformers (DiT):** Investigating scalable transformer-based backbones for latent diffusion, moving beyond U-Net architectures for higher-fidelity generation.
-* **RAG Systems:** Developing Multimodal RAG architectures capable of synthesizing insights from variant data sources, including structured tables, unstructured text, and visual assets, utilizing cross-modal embeddings for holistic retrieval.
-* **Post-Training & Alignment:** Engineering iterative workflows for model distillation and preference alignment to optimize Small Language Models (SLMs) for efficient, local, resource-constrained inference.
+- **LLMs & SLMs** — Fine-tuning, alignment, agents, and making small models punch above their weight.
+- **Diffusion Models** — DiTs, DPO/GRPO, and teaching image models what looks good.
+- **Bayesian ML** — Gaussian Processes, forecasting, and being statistically unsure about things.
+- **RAG & Agents** — Making LLMs actually useful beyond chatting.
+- **Brain-inspired ML** — Hebbian learning, predictive coding, and wondering if backprop is really all we need.
 
----
+Also occasionally interested in time-series forecasting, optimization, and whatever else distracts me from my current project.
 
-### 🛠️ Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- **AI/ML Frameworks:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)
-- **Infrastructure:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+### 🛠️ Stuff I work with
 
----
+**Languages:** Python, SQL, Shell
 
-### 📂 Featured Projects
+**ML:** PyTorch, Scikit-learn, Hugging Face, Jupyter
 
-| Project | Description |
+**Tools:** Docker, Git, CUDA, FastAPI, LangGraph
+
+And a concerning number of YAML files.
+
+### 📂 Things I've built (or broken)
+
+| Project | What's it about? |
 | :--- | :--- |
-| [**gpr-slippage-forecasting**](https://github.com/cuburt/SCDex) | A Bayesian framework using Gaussian Process Regression to predict and quantify uncertainty in infrastructure project slippage. |
-| [**project-crimex**](https://github.com/cuburt/project-crimex) | A comprehensive analytical platform for crime data visualization and predictive modeling using hybrid ML approaches. |
-| [**varima-nn**](https://github.com/cuburt/varima-nn) | Hybrid forecasting system combining Vector ARIMA with Neural Networks for multivariate data. |
-| [**llm-wrappers**](https://github.com/cuburt/llm-wrappers) | A versatile chatbot framework supporting local inference and code interpretation. |
-| [**llm-local-setup**](https://github.com/cuburt/llm-local-setup) | Optimized configurations and scripts for running high-performance local LLM inference and SLM training using CUDA/MPS. |
-| [**cuburt/ai-toolkit**](https://github.com/cuburt/ai-toolkit) | Implementation of DPO and GRPO training loops for aligning Diffusion Transformer (DiT) to specific preferences. |
+| [SCDex](https://github.com/cuburt/SCDex) | Predicting project delays with Gaussian Processes. |
+| [project-crimex](https://github.com/cuburt/project-crimex) | Crime data analysis and ML experiments. |
+| [varima-nn](https://github.com/cuburt/varima-nn) | What happens when VARIMA meets neural networks. |
+| [llm-wrappers](https://github.com/cuburt/llm-wrappers) | Messing around with LLMs, chatbots, and code execution. |
+| [llm-local-setup](https://github.com/cuburt/llm-local-setup) | Running LLMs locally without setting my laptop on fire. |
+| [ai-toolkit](https://github.com/cuburt/ai-toolkit) | Experiments with DPO/GRPO for diffusion models. |
 
----
+### 📖 Research-ish stuff
 
-### 📖 Research Highlights
-* [**Gaussian Process Regression (GPR):**](https://www.researchgate.net/publication/349682387_NDMU_Forecasting_Contractors'_Slippage_for_Infrastructure_Projects_in_South_Cotabato_Using_Gaussian_Process_Regression) Published work on using GPR for project slippage forecasting, providing probabilistic intervals for better project governance.
-* **Diffusion Scalability:** Researching the transition from convolutional denoising to attention-based denoising in latent spaces.
-* **Tabular & Multimodal RAG:** Developing methods to improve LLM reasoning over sparse, large-scale financial tables using semantic chunking.
-* **LLM Scalability & Efficiency:** Investigating quantization-aware training, KV-cache optimization, and distillation techniques to maintain high-reasoning performance in Small Language Models (SLMs) for edge deployment.
-* **Bio-plausibility in ML:** Exploring neural architectures inspired by predictive coding and synaptic plasticity to develop more efficient, lifelong learning systems that mimic biological processing.
+I like reading papers and trying ideas that may or may not work.
 
----
+Currently exploring **diffusion alignment, efficient language models, Bayesian methods, and biologically plausible learning**.
+
+No groundbreaking discoveries yet. Just lots of experiments, unfinished notebooks, and questions.
 
 ### 📊 GitHub Stats
-![Cuburt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuburt&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuburt&layout=compact&theme=transparent)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuburt&show_icons=true&theme=transparent)
 
-*"Advancing AI through Bayesian uncertainty, Transformer scalability, and an unhealthy relationship with PyTorch."*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuburt&layout=compact&theme=transparent)
+
+---
+
+*Professional overthinker. Amateur mathematician. Full-time debugger.*
